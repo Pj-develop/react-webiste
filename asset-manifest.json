@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c933434.css",
+    "main.js": "/static/js/main.97f21f84.js",
+    "static/media/whySoilImportant.mp4": "/static/media/whySoilImportant.19ca7af1cebb21920b92.mp4",
+    "static/media/mainimage.jpg": "/static/media/mainimage.687a3c428ad05f4221cf.jpg",
+    "static/media/soilErosionMain.jpg": "/static/media/soilErosionMain.f4e08533d4dc3adfc03d.jpg",
+    "static/media/soilDefault.jpg": "/static/media/soilDefault.b57cd3068a7b6ee47521.jpg",
+    "static/media/joshimath.jpg": "/static/media/joshimath.2ac6ea111f8f65a8eb44.jpg",
+    "index.html": "/index.html",
+    "main.2c933434.css.map": "/static/css/main.2c933434.css.map",
+    "main.97f21f84.js.map": "/static/js/main.97f21f84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c933434.css",
+    "static/js/main.97f21f84.js"
+  ]
+}
